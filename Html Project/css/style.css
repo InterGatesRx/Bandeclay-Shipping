@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+    height: auto;
+    overflow-y: scroll;
+    background: #CCCCCC;
+}
+header {
+    background: #FFFFFF;
+    padding: 30px;
+}
+nav img {
+    margin: 30px;
+    vertical-align: middle;
+}
+.img2 {
+    position: absolute;
+    right: 20px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 17px;
+    font-family: "Proxima Nova Rg", Arial, Helvetica, sans-serif;
+    display: inline;
+    vertical-align: middle;
+    font-weight: 400;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+.div2 {
+    background: #FFFFFF;
+}
+.imgwarzone {
+    width: 100%;
+}
+h2 {
+    font-weight: bold;
+    font-size: 17px;
+    font-family: "Proxima Nova Rg", Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    font-weight: 400;
+    line-height: 19px;
+    text-transform: uppercase;
+    text-align: center;
+}
